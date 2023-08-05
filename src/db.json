@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Bowser",
+        "birthdate": "2021-07-01",
+        "breed": "Golden Retriever",
+        "blurb": "This is the best of dogs!",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg/320px-Golden_Retriever_Dukedestiny01_drvd.jpg",
+        "reviews": [
+            {
+                "id": 11,
+                "reviewDate": "7/18/23",
+                "reviewer": "Jonathan",
+                "reviewContent": "While Bowser was a generally good dog, I don't see what all the hype is about.",
+                "rating": 3
+            }, {
+                "id": 12,
+                "reviewDate": "7/17/23",
+                "reviewer": "Molly",
+                "reviewContent": "Boswer was a joy to be with! So many hugs and snuggles were given.",
+                "rating": 5
+            }
+        ],
+        "locations": [
+            {
+                "id": 21,
+                "title": "Paris, France",
+                "photo": "https://t4.ftcdn.net/jpg/02/96/15/35/360_F_296153501_B34baBHDkFXbl5RmzxpiOumF4LHGCvAE.jpg",
+                "blurb": "Took a walk around the Eiffel Tower with Bowser!"
+            }, {
+                "id": 22,
+                "title": "Barcelona, Spain",
+                "photo": "https://www.shutterstock.com/shutterstock/photos/2080319242/display_1500/stock-photo-barcelona-spain-february-sagrada-familia-basilica-in-barcelona-the-antoni-gaudi-2080319242.jpg",
+                "blurb": "Bowser looked so cute at the Barcelona Cathedral."
+            }, {
+                "id": 23,
+                "title": "New York, NY, USA",
+                "photo": "https://media.gettyimages.com/id/1347979016/photo/aerial-view-of-new-york-city-skyline-with-central-park-and-manhattan-usa.jpg?s=612x612&w=gi&k=20&c=AXXhI67qz4cEi7ZNfLeIVrz9uNhDgLaC9sSp4FeqAFg=",
+                "blurb": "Bowser ran me ragged around Central Park!"
+            }
+        ]
+    }, {
+        "id": 2,
+        "name": "Maxine",
+        "breed": "Doberman",
+        "photo": "https://media-be.chewy.com/wp-content/uploads/2021/06/02102805/Doberman-Pinscher_Featured-Image.jpg",
+        "birthdate": "2020-06-25",
+        "blurb": "Maxine is a gentle soul that treads lightly into your heart.",
+        "reviews": [
+            {
+                "id": 13,
+                "reviewDate": "7/7/23",
+                "reviewer": "Thomas",
+                "reviewContent": "Maxine was completely different from what I expected. Such a warm friendly dog!",
+                "rating": 4
+            }
+        ],
+        "locations": [
+            {
+                "id": 24,
+                "title": "Atlanta, GA, USA",
+                "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Atlanta_Downtown_July_2010.JPG/375px-Atlanta_Downtown_July_2010.JPG",
+                "blurb": "Downtown Atlanta was Maxine and my playground. We had such a great time!"
+            }
+        ]
+    }, {
+        "id": 3,
+        "name": "Dalton",
+        "breed": "Beagle",
+        "photo": "https://www.thesprucepets.com/thmb/dPpsYrUVJJZZV-PJnjRJRL5sDpE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-926877064-29386c59fee1414a809043123091eb72.jpg",
+        "birthdate": "2021-02-13",
+        "blurb": "Dalton is a chipper yet easy going dog.",
+        "reviews": [],
+        "locations": [
+            {
+                "id": 25,
+                "title": "Zihuatanejo, Mexico",
+                "photo": "https://travel.usnews.com/dims4/USNEWS/a0f5e61/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2FZihuatanejo-GettyImages-Heather-Paul_oygsPRk.jpg",
+                "blurb": "A beagle on the beach is just fun. Had an excellent adventure with Dalton."
+            }
+        ]
+    }
+]
